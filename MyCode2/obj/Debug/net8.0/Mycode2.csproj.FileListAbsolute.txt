@@ -1,0 +1,14 @@
+C:\Users\E7440\C#\Mycode2\bin\Debug\net8.0\Mycode2.exe
+C:\Users\E7440\C#\Mycode2\bin\Debug\net8.0\Mycode2.deps.json
+C:\Users\E7440\C#\Mycode2\bin\Debug\net8.0\Mycode2.runtimeconfig.json
+C:\Users\E7440\C#\Mycode2\bin\Debug\net8.0\Mycode2.dll
+C:\Users\E7440\C#\Mycode2\bin\Debug\net8.0\Mycode2.pdb
+C:\Users\E7440\C#\Mycode2\obj\Debug\net8.0\Mycode2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E7440\C#\Mycode2\obj\Debug\net8.0\Mycode2.AssemblyInfoInputs.cache
+C:\Users\E7440\C#\Mycode2\obj\Debug\net8.0\Mycode2.AssemblyInfo.cs
+C:\Users\E7440\C#\Mycode2\obj\Debug\net8.0\Mycode2.csproj.CoreCompileInputs.cache
+C:\Users\E7440\C#\Mycode2\obj\Debug\net8.0\Mycode2.dll
+C:\Users\E7440\C#\Mycode2\obj\Debug\net8.0\refint\Mycode2.dll
+C:\Users\E7440\C#\Mycode2\obj\Debug\net8.0\Mycode2.pdb
+C:\Users\E7440\C#\Mycode2\obj\Debug\net8.0\Mycode2.genruntimeconfig.cache
+C:\Users\E7440\C#\Mycode2\obj\Debug\net8.0\ref\Mycode2.dll

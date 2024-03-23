@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "C#: <project-name> Debug",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/<relative-path-to-project-folder><project-name>.csproj"
+        },
+        
+        {
+            "name": "C#: C#",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\MyCode1\\C#.csproj",
+            //"projectPath": "${workspaceFolder}\\MyCode2\\Mycode2.csproj",
+            "launchConfigurationId": "TargetFramework=;C#"
+        }
+    ]
+}
